@@ -1,55 +1,47 @@
-# Quinn | @QuinnsCode
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:6ec1ff,60:ffe1b3,100:f48c06&text=Quinn%20%2F%20QuinnsCode&fontSize=58&fontColor=2a1a0e&fontAlignY=36&desc=Things%20that%20make%20life%20more%20fun%2C%20more%20connected%2C%20less%20painful&descSize=20&descAlignY=58&descColor=2a1a0e&animation=twinkling" width="100%" alt="Quinn / QuinnsCode"></p>
 
-> Building things that make life more fun, more connected, and less painful.  
-> Full-stack TypeScript. Cloudflare-native. Shipping on the edge.
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=18&pause=1200&color=C2410C&center=true&vCenter=true&width=700&height=40&lines=Full-stack+TypeScript;Cloudflare-native;Shipping+on+the+edge;Ask+me+about+Durable+Objects" alt="Full-stack TypeScript, Cloudflare-native, shipping on the edge"></p>
 
----
+<p align="center">
+  <a href="https://rustybuns-playground.notryanquinn.workers.dev"><b>Open the Playground</b></a> &nbsp;/&nbsp;
+</p>
 
-## 🔥 Projects
+## Play something
 
-### [flareup.dev](https://flareup.dev) — *Cloudflare cost monitoring, built on Cloudflare*
-Your Cloudflare bill shouldn't be a surprise. Connect your accounts, and **flareup.dev** scans across all your services — tracking usage, monitoring cost trends, and firing custom alerts before things get out of hand. Set budgets per service, configure alert thresholds, choose how you get notified. Multiple accounts, one dashboard, zero end-of-month anxiety. The meta part? It runs entirely on Cloudflare. Of course it does.
+The [Playground](https://rustybuns-playground.notryanquinn.workers.dev) lists every a bunch of apps I've built that you can try right now. Here is a front row seat: Click a card to play! Nearly all games have a multiplayer mode at this point!
 
----
+<table>
+<tr><td width="50%" valign="top"><a href="https://codesplitter.notryanquinn.workers.dev"><b>codeSplitter</b></a><br><sub>Future of git for agent swarms: every file a Durable Object, many agents and humans editing line by line at once.</sub></td><td width="50%" valign="top"><a href="https://git-recon.notryanquinn.workers.dev"><img src="https://rustybuns-playground.notryanquinn.workers.dev/shots/git-recon.jpg" width="100%" alt="Git Recon"><br><b>Git Recon</b></a><br><sub>A story 3rd person shooter fought inside my codebase. The repo is the level. Git the merge to main.</sub></td></tr>
+<tr><td width="50%" valign="top"><a href="https://two-fronts.notryanquinn.workers.dev"><img src="https://rustybuns-playground.notryanquinn.workers.dev/shots/two-fronts.jpg" width="100%" alt="Two Fronts"><br><b>Two Fronts: Thunderwooka Saga</b></a><br><sub>Turn-based strategic wargame, then choose where to commit your hero to and three.js battle on world as Thunder Marines or Wookas. The story is based around the plight of the Thunder Marines as they fend off the savage Wooka tribes and fleets. Keep them away from the battery packs or else...</sub></td><td width="50%" valign="top"><a href="https://park-hide-seek.notryanquinn.workers.dev"><img src="https://rustybuns-playground.notryanquinn.workers.dev/shots/park-hide-seek.jpg" width="100%" alt="Park Hide & Seek"><br><b>Park Hide &amp; Seek</b></a><br><sub>Hide and seek in a park, with friends. Drop in to National Parks, have time to hide from whoever is the Ranger, and last longest. Try to find Bigfoot to bonus extra!</sub></td></tr>
+<tr><td width="50%" valign="top"><a href="https://skatetechpark.notryanquinn.workers.dev"><img src="https://rustybuns-playground.notryanquinn.workers.dev/shots/skate-tech-park.jpg" width="100%" alt="Skate Tech Park"><br><b>Skate Tech Park</b></a><br><sub>A giant riderless fingerboard shredding up our USA National Parks.</sub></td><td width="50%" valign="top"><a href="https://alien-disc-golf.notryanquinn.workers.dev"><img src="https://rustybuns-playground.notryanquinn.workers.dev/shots/alien-disc-golf.jpg" width="100%" alt="Alien Disc Golf"><br><b>Alien Disc Golf</b></a><br><sub>Disc golf with real NOAA wind and ocean data and know geography or get stroke punished as you toss your UFO across the Earth!</sub></td></tr>
+<tr><td width="50%" valign="top"><a href="https://super-splat-spy-shot.notryanquinn.workers.dev"><img src="https://rustybuns-playground.notryanquinn.workers.dev/shots/splat-spray.jpg" width="100%" alt="Splat Spray"><br><b>Splat Spray</b></a><br><sub>Spray a scanned room with Gaussian splats and find the item fastest.</sub></td><td width="50%" valign="top"><a href="https://geoboxq-worker-live-ryanquinn-tjhne4lpmumy6kz5.notryanquinn.workers.dev"><img src="https://rustybuns-playground.notryanquinn.workers.dev/shots/geoboxq.jpg" width="100%" alt="GeoBoxQ"><br><b>GeoBoxQ</b></a><br><sub>Geography, boxed up.</sub></td></tr>
+</table>
 
-### [qlave.dev](https://qlave.dev) — *Video & audio calls with live transcription, built different*
-> Repo: `clave` · Product: **qlave.dev**
+<p align="center"><a href="https://rustybuns-playground.notryanquinn.workers.dev"><b>See them all in the Playground</b></a></p>
 
-Real-time video and audio calls with live transcriptions baked in — not bolted on. Every conversation becomes a record you can actually use. Built for the people who are tired of "did you catch that?" and "can someone share the notes?" This is the meeting room for people who want more signal, less noise.
+## Real products
 
----
+| | |
+|---|---|
+| [**flareup.dev**](https://flareup.dev) | Your Cloudflare bill shouldn't be a surprise. Budgets, alerts and cost trends across every account, running on Cloudflare of course. |
+| [**qlave.dev**](https://qlave.dev) | Video and audio calls with live transcription built in, so every conversation is a record you can use. |
+| [**qntbr.com**](https://qntbr.com) | A virtual tabletop for Commander players: async, chaotic and social. RPG support is on the way. |
+| [**staticflare.dev**](https://staticflare.dev) | Static content, unblocked: build to delivery without fighting your toolchain. In development. |
+| **Swanky Cloud** | The integration monster: print-on-demand, orders, AI image pipelines and documents across Asana, ShipStation, Etsy and more. RedwoodJS, moving to CedarJS. |
 
-### [qntbr.com](https://qntbr.com) — *Your virtual table. Your game. Your people.*
-Commander players, this one's for you. **qntbr** is a virtual tabletop built for the way you actually play — async, chaotic, and deeply social. Commander is just the beginning; RPG tabletop support is actively in the works. If you've ever tried to schedule a 4-player game across three time zones, you already understand why this exists.
+## Under the hood
 
----
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
+![Workers](https://img.shields.io/badge/Workers-f6821f?style=for-the-badge&logo=cloudflare&logoColor=white)
+![RSC](https://img.shields.io/badge/RSC-20232a?style=for-the-badge&logo=react&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2d3748?style=for-the-badge&logo=prisma&logoColor=white)
+![D1 R2 KV Queues](https://img.shields.io/badge/D1%20R2%20KV%20Queues-f6821f?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Durable Objects](https://img.shields.io/badge/Durable%20Objects-f6821f?style=for-the-badge&logo=cloudflare&logoColor=white)
 
-### [staticflare.dev](https://staticflare.dev) — *Static content, unblocked*
-Static shouldn't mean stuck. **staticflare.dev** is tackling the full pipeline — from build to delivery — and making it fast, obvious, and not annoying. If you've ever fought your own toolchain just to ship a page, this is the antidote. IP project in active development.
+Deep in the [Redwood SDK](https://redwoodjs.com) world. Yes, I can explain Durable Objects, and better, put their superpowers to work. Ask me.
 
----
+## Say hi
 
-### Swanky Cloud ☁️ — *The integration monster that actually works*
-Business productivity for operations that are genuinely complex. Swanky Cloud is where all the real-world chaos lives — print-on-demand workflows, order management, AI image processing pipelines, document generation, the works. Built on [RedwoodJS](https://redwoodjs.com) (now migrating to [CedarJS](https://cedarjs.com)) — full-stack JS, GraphQL, the whole classic monolith done right. If your business touches a dozen platforms and you're tired of duct-taping them together at 2am, this is the answer.
+notryanquinn@gmail.com &nbsp;/&nbsp; cross-platform apps, game dev, business automation, realtime everything.
 
-**Stack:** Vercel · PostgreSQL · Prisma · Inngest · OpenAI · Cloudflare R2 & Queues · PDF.js  
-**Integrations:** Asana · ShipStation · Duoplane · Etsy · Customily · Make/Integromat · and growing
-
----
-
-## 🛠 Current Stack
-
-Deep in the [Redwood SDK](https://redwoodjs.com) world — React Server Components, Prisma/SQL, and Cloudflare all the way down:
-
-`TypeScript` · `React Server Components` · `Prisma` · `Cloudflare Workers` · `D1` · `R2` · `KV` · `Durable Objects` · `Queues` · `WebSockets`
-
-> *Yes, I can actually explain Durable Objects. Even better I can leverage their super powers. Hit me up to learn more.*
-
----
-
-## 📡 Reach Out
-
-**Email:** notryanquinn@gmail.com  
-**Interests:** Cross-platform apps · Game dev · Business automation · Realtime, scalable everything
-
-> *Making lives more fun and easier for everyone. One deployment at a time.*
+*One deployment at a time.*
