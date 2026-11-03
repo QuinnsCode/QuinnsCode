@@ -7,14 +7,12 @@
 
 <p align="center">
   <a href="https://rustybuns-playground.notryanquinn.workers.dev"><b>Open the Playground</b></a> &nbsp;/&nbsp;
-  <a href="https://flareup.dev">flareup.dev</a> &nbsp;/&nbsp;
-  <a href="https://qlave.dev">qlave.dev</a> &nbsp;/&nbsp;
   <a href="https://qntbr.com">qntbr.com</a>
 </p>
 
 ## Play something
 
-The [Playground](https://rustybuns-playground.notryanquinn.workers.dev) lists every a bunch of apps I've built that you can try right now. Here is a front row seat: Click a card to play! Nearly all games have a multiplayer mode at this point!
+The [Playground](https://rustybuns-playground.notryanquinn.workers.dev) lists a bunch of apps I've built to try out right now! Here is a front row seat to the madness: Click a card to play! Games nearly all have a multiplayer mode at this point!
 
 <table>
 <tr><td width="50%" valign="top"><a href="https://codesplitter.notryanquinn.workers.dev"><img src="https://raw.githubusercontent.com/QuinnsCode/RustyBuns/main/apps/codesplitter/src/og.jpeg" width="100%" alt="codeSplitter"><br><b>codeSplitter</b></a><br><sub>Future of git for agent swarms: every file a Durable Object, many agents and humans editing line by line at once.</sub></td><td width="50%" valign="top"><a href="https://git-recon.notryanquinn.workers.dev"><img src="https://rustybuns-playground.notryanquinn.workers.dev/shots/git-recon.jpg" width="100%" alt="Git Recon"><br><b>Git Recon</b></a><br><sub>A story 3rd person shooter fought inside my codebase. The repo is the level. Git the merge to main.</sub></td></tr>
@@ -25,20 +23,12 @@ The [Playground](https://rustybuns-playground.notryanquinn.workers.dev) lists ev
 
 <p align="center"><a href="https://rustybuns-playground.notryanquinn.workers.dev"><b>See them all in the Playground</b></a></p>
 
-## Real products
 
-| | |
-|---|---|
-| [**flareup.dev**](https://flareup.dev) | Your Cloudflare bill shouldn't be a surprise. Budgets, alerts and cost trends across every account, running on Cloudflare of course. |
-| [**qlave.dev**](https://qlave.dev) | Video and audio calls with live transcription built in, so every conversation is a record you can use. |
-| [**qntbr.com**](https://qntbr.com) | A virtual tabletop for Commander players: async, chaotic and social. RPG support is on the way. |
-| **Swanky Cloud** | The integration monster: print-on-demand, orders, AI image pipelines and documents across Asana, ShipStation, Etsy and more. RedwoodJS, moving to CedarJS. |
+## Our mini passion project atm: RustyBuns - a new way of thinking about your apps and where they live.
 
-## Built on RustyBuns
+Almost all these apps live in the RustyBuns monorepo, [**RustyBuns**](https://github.com/QuinnsCode/RustyBuns). **eqosys** signs into and connects them, one account across my software, and **Qollab** to power the collaborative part most apps crave making multiplayer and live editing work seemlessly.
 
-Every app above lives in one monorepo, [**RustyBuns**](https://github.com/QuinnsCode/RustyBuns). **eqosys** is the sign-in that connects them, one account across all of it, and **Qollab** is the collaborative engine that makes the multiplayer and live editing work.
-
-## Under the hood
+## Techs in use atm
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Workers](https://img.shields.io/badge/Workers-f6821f?style=for-the-badge&logo=cloudflare&logoColor=white)
@@ -56,10 +46,12 @@ Every app above lives in one monorepo, [**RustyBuns**](https://github.com/Quinns
 ![Alchemy](https://img.shields.io/badge/Alchemy-7c3aed?style=for-the-badge&logoColor=white)
 ![Effect](https://img.shields.io/badge/Effect-1f2937?style=for-the-badge&logoColor=white)
 
-Deep in the [Redwood SDK](https://redwoodjs.com) world. Yes, I can explain Durable Objects, and better, put their superpowers to work. Ask me.
+Deep in the [Redwood SDK](https://redwoodjs.com) world.
+
+I can explain Durable Objects, and better yet, put their superpowers to work. Ask me!
 
 ## Say hi
 
-notryanquinn@gmail.com &nbsp;/&nbsp; cross-platform apps, game dev, business automation, realtime everything.
+notryanquinn@gmail.com &nbsp;/&nbsp; cross-platform apps, game dev, business automation, realtime everything. All around Solutions Architect!
 
 *One deployment at a time.*
